@@ -6,5 +6,11 @@ Authors - [Saksham Jain*](https://www.linkedin.com/in/saksham-jain-54121a16a/),[
 
 ##### *Equal Contribution
 
+If you find our work useful in your research, please consider citing:
+```
+S. Jain, T. Khanam, A. J. Abedi and A. A. Khan, "Efficient Machine Learning for Malnutrition Prediction among under-five children in India," 2022 IEEE Delhi Section Conference (DELCON), 2022, pp. 1-10, doi: 10.1109/DELCON54057.2022.9753080.
+
+```
+
 
 
